@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Gyul</h1>
+<h1 align="center">
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=Gyurae's%20Git%20Hub&fontSize=60&animation=fadeIn&fontColor=fff)  
+</h1>
 <h3 align="center">
   Front-End & Back-End 풀스택 개발자 김규래 입니다.
 </h3>
@@ -32,9 +34,6 @@
 <br>
 
 <br />
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=This%20is%20Gyurae's&fontSize=60&animation=fadeIn&fontColor=fff)
-
 
 <h1>Hi 👋, I'm YoonSeoyeon</h1>
 <br>
