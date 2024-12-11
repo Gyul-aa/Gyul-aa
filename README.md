@@ -55,7 +55,7 @@
 [<img align="left" alt="SOKURI_CODE | YouTube" width="48px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="SOKURI_CODE | Instagram" width="48px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />][instagram]
 
-[website]: http://njjekr10.dothome.co.kr
+[website]: http://njjekr1.dothome.co.kr
 [youtube]: https://youtu.be/jhW3giGFBAY
 [instagram]: https://www.instagram.com/gyul_aa/
 
