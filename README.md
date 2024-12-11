@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=Gyurae's%20Git%20Hub&fontSize=60&animation=fadeIn&fontColor=fff)  
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=200&section=header&text=Welcome!😊&desc=Gyurae's%20Git%20Hub&fontSize=60&animation=fadeIn&fontColor=fff)  
 <h3 align="center">
   Front-End & Back-End 풀스택 개발자 김규래 입니다.
 </h3>
