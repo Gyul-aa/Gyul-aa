@@ -1,17 +1,5 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ca848a,100:ffbe98&height=250&section=header&text=Welcome!😊&desc=Gyurae's%20Git%20Hub&fontSize=40&animation=fadeIn&fontColor=fff)  
 
-<h3>
-  Front-End & Back-End 풀스택 개발자 김규래 입니다.
-</h3>
-
-**My tech stack :**  
-- Backend web development (Java, Servlet/JSP)
-- Frontend web development (HTML, CSS, javaScript, jQuery, React.js)
-- Oracle, MySQL
-- Portfolio
-<br>
-
-
 **languages and tools :**
 <!-- 뱃지 사용방법 -->
   <!-- 뱃지 아이콘 사이트 -->
